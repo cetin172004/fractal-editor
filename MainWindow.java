@@ -46,11 +46,6 @@ import java.awt.*; // borderlayout, flowlayout
 
 public class MainWindow extends JFrame {
 	public MainWindow() {
-		
-
-		
-		
-		
 		// start server
 		
 		/* 1. GUI ELEMENTS */
